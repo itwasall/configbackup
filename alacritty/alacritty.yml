@@ -1,0 +1,35 @@
+font:
+  normal:
+    family: FantasqueSansMono Nerd Font Mono
+    style: regular
+  size: 10.0
+
+colors:
+  primary:
+    background: '#373b43'
+    foreground: '#809fd7'
+    normal:
+      black: '#373b43'
+      red: '#fdcd39'
+      green: '#fbfd59'
+      yellow: '#deac40'
+      blue: '#373b43'
+      magenta: '#b387e7'
+      cyan: '#63e860'
+      white: '#efdecb'
+    bright:
+      black: '#373b43'
+      red: '#fdcd39'
+      green: '#fbfd59'
+      yellow: '#deac40'
+      blue: '#afb171'
+      magenta: '#b387e7'
+      cyan: '#63e860'
+      white: '#373b43'
+
+cursor:
+  style:
+    shape: Beam
+    blinking: On
+    blink_interval: 750
+
